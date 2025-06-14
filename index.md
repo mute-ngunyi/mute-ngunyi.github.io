@@ -7,7 +7,7 @@ author_profile: true
 ---
 # ELVIS MUTE
 ---
-title: "Hi, I'm [Your Name] 👋"
+title: "Hi, I'm [ELVIS MUTE] 👋"
 layout: splash
 header:
   overlay_color: "#000"
@@ -16,7 +16,7 @@ header:
   cta_label: "View My Projects"
   cta_url: "/projects"
   caption: "Welcome to my GitHub profile"
-excerpt: "Software Developer | Open Source Contributor | Tech Enthusiast"
+except: "Software Developer | Open Source Contributor | Tech Enthusiast"
 ---
 
 # 👋 Hello, I'm [ELVIS MUTE]
