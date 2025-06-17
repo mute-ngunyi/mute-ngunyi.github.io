@@ -1,9 +1,9 @@
 main:
   - title: "CV"
     url: /CV/
-  - title: "Categories"
+  - title: "Projects"
     url: /categories/
-  - title: "Tags"
+  - title: "Lab Challenges"
     url: /tags/
-  - title: "About"
+  - title: "Contact"
     url: /about/
