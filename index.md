@@ -8,7 +8,7 @@ author_profile: true
 # Curriculum Vitae -Elvis Mute Ngunyi
 ---
 ## Education
--*Bsc in Bachelor of Business Information Technology**,Murang'a University of Technology - *Second Class-Lower Division*
+- Bsc in Bachelor of Business Information Technology,Murang'a University of Technology - Second Class-Lower Division
 
 ---
 ## WORK EXPERIENCE
